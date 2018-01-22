@@ -1,9 +1,9 @@
 {
     "chesshub": {
-        "db": "mongodb://localhost/test",
+        "db": "mongodb://hillebrand:sgvhe9kr@ds161742.mlab.com:61742/techmallchess",
 	"es":{
-		 "host": "localhost",
-		 "port": "9200"
+		 "host": "mongodb://hillebrand:sgvhe9kr@ds161742.mlab.com",
+		 "port": "61742/techmallchess"
     }
     }
 }
