@@ -6,6 +6,9 @@
   "author": "Mahmoud Ben Hassine",
   "license": "MIT",
   "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "body-parser": "~1.8.1",
     "chess.js": "^0.1.0",
